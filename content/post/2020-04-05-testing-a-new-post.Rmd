@@ -1,0 +1,35 @@
+---
+title: Tips for learning - discover a new passion
+author: Marwin
+date: '2020-04-05'
+slug: testing-a-new-post
+categories: []
+tags: []
+---
+
+  Many of us admire people who excel at some skill and can seemingly do great things with the slightest effort. How great would be if we’re born with the same talent as they, isn’t it? Well, one good news is that’s where we are gravely mistaken about that. Turns out that what makes us good at something isn’t the born talent, but how we engage ourselves in the learning process. Below I’ll briefly share some tips learned from a coursera course called [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn/home/welcome), ministered by Dr. Barbara Oakley. This blog post is part of the final project for this course and aims to highlight a few strategies that I’ve been applying to my everyday routine and how these strategies have helped me so far.
+
+## Get more done by avoiding procrastination
+
+  With some very few exceptions, 	we all fall into the procrastination pit sometimes (or more often than we would like). Procrastination is a natural behavior we take to shift our focus from some unpleasant task or something we find uncomfortable. However, there are some strategies we can make use of to helps us keep focused on the task we have at hand.
+Avoiding procrastination is important because our brains cannot retain new information long enough from just on intense period of study, it needs time and repetition to strengthen the neural connections and make the neurons become linked together. We can think of it like the process of building a wall, we must wait for the cement to harden so we can put on new blocks.
+
+  First, we have the Pomodoro technique: although the name may sound fancy, the Pomodoro technique consist of only a timer set for 25 minutes of focused concentration followed by a brief interval of mental relaxation, usually of 5 minutes. During the focused time, you should remove all possible distractions that can take your attention from work (like social media, a TV screen on the background, some family member or friend coming to talk to you etc.). As important as 25 minutes of work is the 5 minutes break, it is so because giving ourselves a little reward for the intense work help us keep motivated.
+  
+  It is easy to get overwhelmed with the amount of work we have to do and becoming so anxious that we end up doing none of it. To help with this issue, keeping a planner journal can facilitate building daily routines and goals as well as noting what doesn’t work also the goals we have reached. Write your plan tasks out the night before so your brain has time to dwell on your goals and help ensure success. Arrange your work into a series of small challenges. Another great tip is eating your frogs first every day, which means, giving the less pleasant tasks priority.
+
+## A few strategies I’ve been trying so far
+
+To retain information and facilitate retrieval in future opportunities, store them in the form of chunks are a great strategy. As Dr. Oakley teach us, “chunks are pieces of information, neuroscientifically speaking, that are bound together through use and often through meaning. You can think of a chunk as a scintillating network of neurons that compactly synthesizes key ideas or actions. Chunks are best built with focused, undivided attention, understanding of the basic idea. And practice to help deepen your patterns and to help you gain big picture context”.
+
+Some ways to form chunks as taught in the course I’ve been applying so far are: 
+
+1. Recall
+
+It is easy to get fooled by our brains into thinking that we know perfectly well the material the is right in front of our eyes. We can tackle this by closing the book (or whatever we’re reading/ listening form) and try to remember the key points from what we just learned. Also recalling the material in places different from where they’re learned helps make it more deeply integrated. Recalling the material helps connects concepts that are already well-embedded in the brain. Of course, that that’s must be some foundation for the concepts to attach, careful to not jump steps into material far from your current knowledge.
+
+2. Avoid illusions of competence
+
+Highlighting text from a book gives us the illusion that we are storing this information in our brains, but research shows that is little beneficial. Instead of resorting to highlighting, trying to test ourselves frequently with mini tests to see if we’re actually learned the material is way more useful (recall is a form of mini testing). With tests, inevitably comes failures, but don’t worry, failures are a good thing! They allow us to catch illusions of competence. Deliberate practicing the more difficult stuff helps break the illusions of competence and move towards mastering the subject.
+
+These are only a few excerpts from this amazing course. It is highly recommendable that those interest in becoming better learners to take this brief course and go through all the material. A key take point I carry from this course is the *law of serendipity*: lady luck favors the one who tries.

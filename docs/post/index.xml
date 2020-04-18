@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Slumdown</title>
@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Slumdown</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tips for learning - discover a new passion</title>
+      <link>/post/testing-a-new-post/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/testing-a-new-post/</guid>
+      <description>Many of us admire people who excel at some skill and can seemingly do great things with the slightest effort. How great would be if we’re born with the same talent as they, isn’t it? Well, one good news is that’s where we are gravely mistaken about that. Turns out that what makes us good at something isn’t the born talent, but how we engage ourselves in the learning process.</description>
+    </item>
     
     <item>
       <title>Tutorial part 1: Getting started</title>

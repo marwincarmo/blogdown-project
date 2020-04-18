@@ -1,7 +1,7 @@
 # Install the relevant R packages (and Hugo)
 
 # Change this to TRUE to run the setup process
-run_setup <- FALSE
+run_setup <- TRUE
 
 if(run_setup == TRUE) {
   
